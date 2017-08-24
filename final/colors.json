@@ -1,0 +1,128 @@
+[
+  {
+    "colorCommonName": "black",
+    "colorValues": {
+      "red": 0.0,
+      "green": 0.0,
+      "blue": 0.0,
+      "alpha": 1.0
+    }
+  },
+  {
+    "colorCommonName": "white",
+    "colorValues": {
+      "red": 1.0,
+      "green": 1.0,
+      "blue": 1.0,
+      "alpha": 1.0
+    }
+  },
+  {
+    "colorCommonName": "red",
+    "colorValues": {
+      "red": 1.0,
+      "green": 0.0,
+      "blue": 0.0,
+      "alpha": 1.0
+    }
+  },
+  {
+    "colorCommonName": "blue",
+    "colorValues": {
+      "red": 0.0,
+      "green": 0.0,
+      "blue": 1.0,
+      "alpha": 1.0
+    }
+  },
+  {
+    "colorCommonName": "yellow",
+    "colorValues": {
+      "red": 1.0,
+      "green": 1.0,
+      "blue": 0.0,
+      "alpha": 1.0
+    }
+  },
+  {
+    "colorCommonName": "green",
+    "colorValues": {
+      "red": 0.0,
+      "green": 1.0,
+      "blue": 0.0,
+      "alpha": 1.0
+    }
+  },
+  {
+    "colorCommonName": "turquoise",
+    "colorValues": {
+      "red": 0.56,
+      "green": 0.98,
+      "blue": 1.0,
+      "alpha": 1.0
+    }
+  },
+  {
+    "colorCommonName": "lavender",
+    "colorValues": {
+      "red": 0.77,
+      "green": 0.55,
+      "blue": 1.0,
+      "alpha": 1.0
+    }
+  },
+  {
+    "colorCommonName": "aqua",
+    "colorValues": {
+      "red": 0.33,
+      "green": 0.59,
+      "blue": 1.0,
+      "alpha": 1.0
+    }
+  },
+  {
+    "colorCommonName": "nickel",
+    "colorValues": {
+      "red": 0.58,
+      "green": 0.58,
+      "blue": 0.58,
+      "alpha": 1.0
+    }
+  },
+  {
+    "colorCommonName": "salmon",
+    "colorValues": {
+      "red": 0.89,
+      "green": 0.53,
+      "blue": 0.48,
+      "alpha": 1.0
+    }
+  },
+  {
+    "colorCommonName": "cayenne",
+    "colorValues": {
+      "red": 0.49,
+      "green": 0.14,
+      "blue": 0.0,
+      "alpha": 1.0
+    }
+  },
+  {
+    "colorCommonName": "teal",
+    "colorValues": {
+      "red": 0.31,
+      "green": 0.56,
+      "blue": 0.57,
+      "alpha": 1.0
+    }
+  },
+  {
+    "colorCommonName": "orchid",
+    "colorValues": {
+      "red": 0.49,
+      "green": 0.52,
+      "blue": 1.0,
+      "alpha": 1.0
+    }
+  },
+]
